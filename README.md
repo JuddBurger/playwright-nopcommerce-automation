@@ -69,6 +69,10 @@ Tests include:
 - Invalid email format validation
 - Weak password validation
 
+### Bugs found:
+- Able to use single letter to register for name and surname
+- Able to use weak password for regsiter eg aaaaaa
+
 ### All Tests
 npx playwright test
 
