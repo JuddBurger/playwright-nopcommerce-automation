@@ -51,7 +51,7 @@ npx playwright install firefox
 ### User Journey Test (Complete E2E Flow)
 npm run test:journey
 
-This test covers Steps 1-11 of assessment:
+This test covers Steps 1-11 of Task 4 of assessment:
 - User registration with validation
 - Login authentication
 - Product browsing and sorting (all sort options)
