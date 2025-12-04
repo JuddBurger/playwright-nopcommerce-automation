@@ -38,12 +38,14 @@ Automated end-to-end testing suite for nopCommerce demo site using Playwright wi
 - Powershell to be used for below commands:
 1. Clone the repository:
 git clone https://github.com/JuddBurger/playwright-nopcommerce-automation
+
+2. Change directory:
 cd playwright-nopcommerce-automation
 
-2. Install dependencies:
+3. Install dependencies:
 npm install
 
-3. Install Playwright browsers:
+4. Install Playwright browsers:
 npx playwright install firefox
 
 ## Running Tests
